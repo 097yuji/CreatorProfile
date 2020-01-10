@@ -100,17 +100,15 @@
   <header class="Header">
     <div class="inner w1280">
       <div class="header-inner Flex items-center">
-        <a class="logo img" href="https://cm-s.net"><img
-            src="https://cm-s.net/wp/wp-content/themes/sakaedaigaku/assets/images/common/logo-01.svg" alt=""></a>
         <nav class="gnav">
           <ul class="Flex">
-            <li><a href="https://cm-s.net/seminar">開催セミナー</a></li>
-            <li><a href="#">クリエイター一覧</a></li>
-            <li><a href="https://cm-s.net/concept">コモンズとは？</a></li>
-            <li><a href="https://cm-s.net/interview-report">セミナー実績レポート</a></li>
+            <li><a href="">開催セミナー</a></li>
+            <li><a href="">クリエイター一覧</a></li>
+            <li><a href="">コモンズとは？</a></li>
+            <li><a href="">セミナー実績レポート</a></li>
             <li><a>プロジェクト一覧</a></li>
-            <li><a href="https://cm-s.net/contact">お問い合わせ</a></li>
-            <li><a href="https://s-core.jp/#map" target="_blank">アクセス</a></li>
+            <li><a href="">お問い合わせ</a></li>
+            <li><a href="" target="_blank">アクセス</a></li>
           </ul>
         </nav>
       </div>
@@ -132,7 +130,7 @@
       <div id="breadcrumb" class="BreadCrumb">
         <div class="inner">
           <ul>
-            <li><a href="https://cm-s.net"><span>ホーム</span></a></li>
+            <li><a href=""><span>ホーム</span></a></li>
             <li><span>クリエイター一覧</span></li>
           </ul>
         </div>
@@ -301,8 +299,6 @@
     <div class="inner">
       <div class="footer-inner Flex">
         <div class="footer-left">
-          <a class="logo img" href="https://cm-s.net"><img
-              src="https://cm-s.net/wp/wp-content/themes/sakaedaigaku/assets/images/common/txt-logo-02.svg" alt=""></a>
           <div class="sns Flex">
             <a class="ig icon-ig" href="https://www.instagram.com/p/By9eZIRAjFV/" target="_blank"></a>
             <a class="fb icon-fb" href="https://www.facebook.com/644017079440971/" target="_blank"></a>
@@ -314,7 +310,7 @@
             <dl class="nav-item">
               <dt class="akrobat">SEMINAR</dt>
               <dd>
-                <a href="https://cm-s.net/seminar">開催セミナー</a>
+                <a href="">開催セミナー</a>
               </dd>
             </dl>
             <dl class="nav-item">
@@ -326,28 +322,28 @@
             <dl class="nav-item">
               <dt class="akrobat">CONCEPT</dt>
               <dd>
-                <a href="https://cm-s.net/concept">コモンズとは？</a>
+                <a href="">コモンズとは？</a>
               </dd>
             </dl>
             <dl class="nav-item">
               <dt class="akrobat">INTERVIEW & REPORT</dt>
               <dd>
-                <a href="https://cm-s.net/interview-report">セミナー実績レポート</a>
+                <a href="">セミナー実績レポート</a>
               </dd>
             </dl>
             <dl class="nav-item">
               <dt class="akrobat">PROJECT</dt>
               <dd>
                 <a href="#">プロジェクト一覧</a>
-                <a href="https://s-core.jp" target="_blank">エスコア</a>
-                <a href="https://speed-answer.com" target="_blank">データデザイン</a>
+                <a href="" target="_blank">エスコア</a>
+                <a href="" target="_blank">データデザイン</a>
               </dd>
             </dl>
             <dl class="nav-item">
               <dt class="akrobat">CONTACT</dt>
               <dd>
-                <a href="https://cm-s.net/contact">お問い合わせ</a>
-                <a href="https://s-core.jp/#map" target="_blank">アクセス</a>
+                <a href="">お問い合わせ</a>
+                <a href="" target="_blank">アクセス</a>
               </dd>
             </dl>
           </nav>
