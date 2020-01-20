@@ -9,7 +9,7 @@ class ProfileController extends Controller
     public function profile()
     {
         // facebook ページアクセストークン (API申請用テストアカウントのページ用)
-        $fb_token = 'EAAehU7Pb8ZAUBABm0t4qz7S0o4W2cXSilsZCTYCRkZC42dGAHSwJKUblT6omBRTFZCMieoFQSg4xVODUOqH0QOWZBBLQOJFZCd31aO9BX6H32ofZA3p37ZAJLgES18YeyVq6MbXcRH6bHAZCc4yMqhPzjZCLBkVplqVqdj27EWbM9tZCokYdTTDjnSqT8yE02dybVEZD';
+        $fb_token = 'EAAehU7Pb8ZAUBAPqMz63JRsRxIoh1NosnZA665AOZA8BademKwM4fA0GSWUfXj6xzR44cazQr1MjWYAoCalBJ8AZB2gbv7Rstc7EaOAdiYQlNS3PeoBoxwt9k7beQSfjNgWZBoELQEHslcBO3tgt2lAlcVkHSMgs8MQXmFJ6O4O9dso3XvUjSC70zaJYBZAq4ZD';
 
         // facebook ユーザーのページID (API申請用テストアカウントのページ用)
         $user_page_id = '108554017352373';
